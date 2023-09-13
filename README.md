@@ -14,6 +14,13 @@ I would like to introduce my project, a User Authentication System with Gmail In
 
 - **Landing Page**: Includes visually appealing and user-friendly landing pages for both registration and password recovery processes.
 
+## Technology Stack
+
+- **Programming Language**: PHP
+- **Framework**: CodeIgniter 3
+- **Front-End**: Bootstrap CSS
+- **Email Handling**: SMTP email for sending account verification and password reset emails.
+
 ## Motivation
 
 This project was developed to enhance user experience and security when interacting with web applications. The integration with Gmail not only simplifies the registration and password recovery processes but also adds an extra layer of account verification.
